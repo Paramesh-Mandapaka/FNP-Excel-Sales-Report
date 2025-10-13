@@ -80,3 +80,6 @@ These KPIs indicate strong customer engagement and a consistent order flow, with
 ## 7. Conclusion  
 The **FNP Sales Dashboard** highlights strong customer demand for cakes and gifting products, occasion-based purchase trends, and significant contributions from non-metro cities. By focusing on seasonal campaigns, improving weaker product categories, and enhancing customer engagement during off-peak months, FNP can accelerate growth and profitability.  
 
+![FNP Dashboard](https://github.com/Paramesh-Mandapaka/FNP-Excel-Sales-Report/blob/main/FNP%20Dashboard.PNG)
+
+

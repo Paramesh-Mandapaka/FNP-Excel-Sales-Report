@@ -83,3 +83,12 @@ The **FNP Sales Dashboard** highlights strong customer demand for cakes and gift
 ![FNP Dashboard](https://github.com/Paramesh-Mandapaka/FNP-Excel-Sales-Report/blob/main/FNP%20Dashboard.PNG)
 
 
+
+### 🏁 Author
+**Created by:** *Paramesh Mandapaka*  
+📧 *mandapakaparamesh9@gmail.com*
+
+---
+
+⭐ *If you find this project helpful, give it a star on GitHub!*  
+
